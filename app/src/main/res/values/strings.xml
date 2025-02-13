@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyE-Kart</string>
+    <string name="products">Products</string>
+    <string name="rating">Rating:</string>
+</resources>
