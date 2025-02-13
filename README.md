@@ -23,7 +23,7 @@ The **Products Screen** is designed to be intuitive, user-friendly, and visually
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/yourusername/projectname.git
+    git clone https://github.com/Vino92/MyE-Kart.git
     ```
 2. Open the project in Android Studio.
 3. Build the project.
@@ -38,6 +38,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - VINOTH (https://twitter.com/your_twitter) - s.vinoth7392@gmail.com
+Your Name - VINOTH (https://www.linkedin.com/in/vinoth92) - s.vinoth7392@gmail.com
 
-Project Link: [https://github.com/yourusername/projectname](https://github.com/yourusername/projectname)
+Project Link: [MyE-Kart](https://github.com/Vino92/MyE-Kart)
